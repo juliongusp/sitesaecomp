@@ -76,75 +76,74 @@
 							</a>
 
 						<!-- Features -->
-							<section id="features">
-								<header class="style1">
-									<h2>Diretoria</h2>
-									<p>Gestão Sucessão</p>
-								</header>
-								<div class="feature-list">
-									<div class="row">
-										<div class="6u 12u(mobile)">
-											<section>
-												<center>
-												<h3>Presidente</h3><br>
-												<h3><img style="border-radius:50%" src="images/presidente.jpg" width="25%" height="25%"></h3>
-												Borges
-												</center>
-											</section>
-										</div>
-										<div class="6u 12u(mobile)">
-											<section>
-												<center>
-												<h3>Vice Presidente</h3><br>
-												<h3><img style="border-radius:50%" src="images/vicepresidente.jpg" width="25%" height="25%"></h3>
-												Turbo
-												</center>
-											</section>
-										</div>
-									</div>
-									<div class="row">
-										<div class="6u 12u(mobile)">
-											<section>
-												<center>
-												<h3>Diretor Financeiro</h3><br>
-												<h3><img style="border-radius:50%" src="images/financeiro.jpg" width="25%" height="25%"></h3>
-												Fusão
-												</center>
-											</section>
-										</div>
-										<div class="6u 12u(mobile)">
-											<section>
-												<center>
-												<h3>Diretor de Marketing</h3><br>
-												<h3><img style="border-radius:50%" src="images/marketing.jpg" width="25%" height="25%"></h3>
-												Desmond
-												</center>
-											</section>
-										</div>
-									</div>
-									<div class="row">
-											<div class="6u 12u(mobile)">
-													<section>
-														<center>
-														<h3>Diretor de Projetos</h3><br>
-														<h3><img style="border-radius:50%" src="images/projetos.jpg" width="25%" height="25%"></h3>
-														Beto
-														</center>
-													</section>
-										</div>
-										<div class="6u 12u(mobile)">
-												<section>
-													<center>
-													<h3>Diretor de GP</h3><br>
-													<h3><img style="border-radius:50%" src="images/gp.jpg" width="25%" height="25%"></h3>
-													Máscara
-													</center>
-												</section>
-										</div>
-									</div>
+						<section id="features">
+						<header class="style1">
+							<h2>Diretoria</h2>
+							<p>Gestão Sucessão</p>
+						</header>
+						<div class="feature-list">
+							<div class="row">
+								<div class="6u 12u(mobile)">
+									<section>
+										<center>
+										<h3>Presidente</h3><br>
+										<h3><img style="border-radius:50%" src="images/presidente.jpg" width="25%" height="25%"></h3>
+										<h2>Borges</h2>
+										</center>
+									</section>
 								</div>
-							</section>
-
+								<div class="6u 12u(mobile)">
+									<section>
+										<center>
+										<h3>Vice Presidente</h3><br>
+										<h3><img style="border-radius:50%" src="images/vicepresidente.jpg" width="25%" height="25%"></h3>
+										<h2>Turbo</h2>
+										</center>
+									</section>
+								</div>
+							</div>
+							<div class="row">
+								<div class="6u 12u(mobile)">
+									<section>
+										<center>
+										<h3>Diretor Financeiro</h3><br>
+										<h3><img style="border-radius:50%" src="images/financeiro.jpg" width="25%" height="25%"></h3>
+										<h2>Fusão</h2>
+										</center>
+									</section>
+								</div>
+								<div class="6u 12u(mobile)">
+									<section>
+										<center>
+										<h3>Diretor de Marketing</h3><br>
+										<h3><img style="border-radius:50%" src="images/marketing.jpg" width="25%" height="25%"></h3>
+										<h2>Desmond</h2>
+										</center>
+									</section>
+								</div>
+							</div>
+							<div class="row">
+									<div class="6u 12u(mobile)">
+											<section>
+												<center>
+												<h3>Diretor de Projetos</h3><br>
+												<h3><img style="border-radius:50%" src="images/projetos.jpg" width="25%" height="25%"></h3>
+												<h2>Beto</h2>
+												</center>
+											</section>
+								</div>
+								<div class="6u 12u(mobile)">
+										<section>
+											<center>
+											<h3>Diretor de GP</h3><br>
+											<h3><img style="border-radius:50%" src="images/gp.jpg" width="25%" height="25%"></h3>
+											<h2>Máscara</h2>
+											</center>
+										</section>
+								</div>
+							</div>
+						</div>
+					</section>
 					</div>
 				</div>
 
