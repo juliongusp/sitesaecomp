@@ -3,6 +3,8 @@
 	Escape Velocity by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+
+	@juliong
 -->
 <html>
 	<head>
@@ -61,36 +63,36 @@
 											<ul class="style2">
 												<li>
 													<article class="box post-excerpt">
-														<a href="#" class="image left"><img src="images/pic08.jpg" alt="" /></a>
-														<h3><a href="#">EESC</a></h3>
+														<a href="http://www.eesc.usp.br" class="image left"><img src="images/eesc.png" alt="" /></a>
+														<h3><a href="http://www.eesc.usp.br">EESC</a></h3>
 														<p>Escola de Engenharia de São Carlos</p>
 													</article>
 												</li>
 												<li>
 													<article class="box post-excerpt">
-														<a href="#" class="image left"><img src="images/pic09.jpg" alt="" /></a>
-														<h3><a href="#">ICMC</a></h3>
+														<a href="http://www.icmc.usp.br/" class="image left"><img src="images/icmc.png" alt="" /></a>
+														<h3><a href="http://www.icmc.usp.br/">ICMC</a></h3>
 														<p>Instituto de Ciências Matemáticas e da Computação</p>
 													</article>
 												</li>
 												<li>
 													<article class="box post-excerpt">
-														<a href="#" class="image left"><img src="images/pic10.jpg" alt="" /></a>
-														<h3><a href="#">IFSC</a></h3>
+														<a href="https://www2.ifsc.usp.br/portal-ifsc/" class="image left"><img src="images/ifsc.png" alt="" /></a>
+														<h3><a href="https://www2.ifsc.usp.br/portal-ifsc/">IFSC</a></h3>
 														<p>Instituto de Física de São Carlos</p>
 													</article>
 												</li>
 												<li>
 														<article class="box post-excerpt">
-															<a href="#" class="image left"><img src="images/pic10.jpg" alt="" /></a>
-															<h3><a href="#">IQSC</a></h3>
+															<a href="http://www5.iqsc.usp.br/" class="image left"><img src="images/iqsc.png" alt="" /></a>
+															<h3><a href="http://www5.iqsc.usp.br/">IQSC</a></h3>
 															<p>Instituto de Química de São Carlos</p>
 														</article>
 													</li>
 													<li>
 															<article class="box post-excerpt">
-																<a href="#" class="image left"><img src="images/pic10.jpg" alt="" /></a>
-																<h3><a href="#">IAU</a></h3>
+																<a href="http://www.iau.usp.br/" class="image left"><img src="images/iau.png" alt="" /></a>
+																<h3><a href="http://www.iau.usp.br/">IAU</a></h3>
 																<p>Instituo de Arquitetura e Urbanismo</p>
 															</article>
 														</li>
@@ -101,17 +103,17 @@
 												<h2>Os Extracurriculares</h2>
 											</header>
 											<ul class="style3"><strong>
-												<li><a href="#">SAEComp.</a></li>
-												<li><a href="#">SEnC</a></li>
-												<li><a href="#">EESC Jr.</a></li>
-												<li><a href="#">ICMC Jr.</a></li>
-												<li><a href="#">ADA</a></li>
-												<li><a href="#">Warthog</a></li>
-												<li><a href="#">FOG</a></li>
-												<li><a href="#">Fórmula SAE</a></li>
-												<li><a href="#">BAJA</a></li>
-												<li><a href="#">TUPÃ</a></li>
-												<li><a href="#">ENACTUS</a></li>
+												<li><a href="https://www.facebook.com/saecomp/">SAEComp.</a></li>
+												<li><a href="https://www.facebook.com/semanaengenhariacomputacao/">SEnC</a></li>
+												<li><a href="https://www.facebook.com/EESCjr/">EESC Jr.</a></li>
+												<li><a href="https://www.facebook.com/ICMCJunior/">ICMC Jr.</a></li>
+												<li><a href="https://www.facebook.com/ADAProjetosEC/">ADA</a></li>
+												<li><a href="https://www.facebook.com/WarthogRobotics/">Warthog</a></li>
+												<li><a href="https://www.facebook.com/fogicmc/">FOG</a></li>
+												<li><a href="https://www.facebook.com/EescUspFormulaSae/">Fórmula SAE</a></li>
+												<li><a href="https://www.facebook.com/eescbaja/">BAJA</a></li>
+												<li><a href="https://www.facebook.com/usp.tupa/">TUPÃ</a></li>
+												<li><a href="https://www.facebook.com/EnactusCAASOUSP/">ENACTUS</a></li>
 												</strong>
 											</ul>
 										</section>
@@ -128,7 +130,7 @@
 												<p>Preparamos um guia rápido para você!</p>
 											</header>
 											<a href="#" class="image featured">
-												<img src="images/pic01.jpg" alt="" />
+												<img src="images/uspbanner.png" alt="" />
 											</a>
 											<p>Seu sorriso é tão resplandecente
 													Que deixou meu coração alegre
@@ -196,9 +198,9 @@
 													<header>
 														<h2>ICMC - Instituto de Ciências Matemáticas e da Computação</h2>
 													</header>
-													<a href="#" class="image featured"><img src="images/pic05.jpg" alt="" /></a>
+													<a href="http://www.icmc.usp.br/" class="image featured"><img src="images/eeschorizontal.png" alt="" /></a>
 													<p>Alguma descrição sobre interunidades</p>
-													<a href="#" class="button style1">Acesse</a>
+													<a href="http://www.icmc.usp.br/" class="button style1">Acesse</a>
 												</section>
 											</div>
 											<div class="6u 12u(mobile)">
@@ -206,19 +208,56 @@
 													<header>
 														<h2>EESC - Escola de Engenharia de São Carlos</h2>
 													</header>
-													<a href="#" class="image featured"><img src="images/pic06.jpg" alt="" /></a>
+													<a href="http://www.eesc.usp.br" class="image featured"><img src="images/icmchorizontal.png" alt="" /></a>
 													<p>alguma descriç'ao sobre interunidades</p>
-													<a href="#" class="button style1">Acesse</a>
+													<a href="http://www.eesc.usp.br" class="button style1">Acesse</a>
 												</section>
+											</div>
+											<div>
+												
+												<header class="style1">
+													<h2>Sua nova casa</h2>
+												</header>
+													<p>Antes de tudo, você deve saber que, em São Carlos, você conviverá em 2 áreas/campus:</p>
+													<h1>Campus 1</h1>
+													<p>Também conhecido como c1 e área 1, esse é o lugar onde se concentra a maior parte da USP São Carlos. 
+														Foi o primeiro a ser construído e mantém Departamentos, Prefeitura, Bibliotecas, Bandejão 
+														Cefer, Ginásio e alguns Extracurriculares.
+													</p>
+													<a href="#" class="image featured">
+															<img src="images/saidasusp.png" alt="mapa usp área 1" />
+														</a>
+													<h1>Campus 2</h1>
+													<p>Também conhecido como c2, área 2 ou simplesmente, "lá na pqp". Esse é o lugar
+														onde irão acontecer a maioria das suas aulas. Apesar do prédio do nosso Departamento
+														ser no c1, nosso prédio fica no c2. Mas não se preocuope, o c2 também abriga
+														uma biblioteca, bandejão, bloco didático e cenários lindos.
+													</p>
+													<a href="#" class="image featured">
+														<img src="images/mapausp2.png" alt="mapa usp área 2"/>
+													</a>
+													<p>Bom, como você pode ver, não existe nada perto do c2. Nosso querido Campus 2
+														fica em uma região afastada da cidade, mas mantém uma área maior do que o c1.
+														Mas relaxe! Existem ônibus gratuitos oferecidos pela USP, além de um ponto
+														de carona organizado pelos alunos.
+														Contudo, lembrem-se <strong>quando for escolher sua moradia, escolha algum lugar
+														perto do c1, pois é lá que ficam a maioria dos Supermercados, farmácias e etc...
+														</strong>
+
+													</p>
+													
+
 											</div>
 										</div>
 										</center>
 									</div>
-
+									
 							</div>
 						</div>
 					</div>
+
 				</div>
+				
 
 
 			<!-- Footer -->
@@ -281,6 +320,7 @@
 				</div>
 			</div>
 			</center>
+			<img src="images/noeleasteregg.png" alt="easteregg" align="right"/>
 
 		</div>
 

@@ -3,6 +3,8 @@
 	Escape Velocity by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+
+	@juliong
 -->
 <html>
 	<head>
@@ -22,11 +24,13 @@
 
 						<!-- Logo -->
 							<div id="logo">
+
 								<h1><a href="index.html">SAEComp</a></h1>
+								
 								<p>Secretaria Acadêmica da Engenharia de Computação</p>
+								
 								<br>
-								<br>
-								<img src="images/Simbolo.png" width='700' height='700'>
+								
 							</div>
 
 						<!-- Nav -->
@@ -64,9 +68,9 @@
 					<div class="title" style="background-color:#34495E"><a name="myAnchor3" id="myAnchor3">A Equipe</a></div>
 					<div id="main" class="container">
 
-						<h2><center><font size="30" color="#FFFFFF">"Coisas incríveis no mundo nunca são feitas por uma única
-							pessoa, e sim, por uma equipe"</font> <br><br> <font size="6">-Steve Jobs</font>
-						</center></h2>
+						<h5><center>"Coisas incríveis no mundo nunca são feitas por uma única
+							pessoa, e sim, por uma equipe"</font> <br><br> <font size="3">-Steve Jobs</font>
+						</center></h5>
 						<br>
 						</section>
 
@@ -76,74 +80,75 @@
 							</a>
 
 						<!-- Features -->
-						<section id="features">
-						<header class="style1">
-							<h2>Diretoria</h2>
-							<p>Gestão Sucessão</p>
-						</header>
-						<div class="feature-list">
-							<div class="row">
-								<div class="6u 12u(mobile)">
-									<section>
-										<center>
-										<h3>Presidente</h3><br>
-										<h3><img style="border-radius:50%" src="images/presidente.jpg" width="25%" height="25%"></h3>
-										<h2>Borges</h2>
-										</center>
-									</section>
-								</div>
-								<div class="6u 12u(mobile)">
-									<section>
-										<center>
-										<h3>Vice Presidente</h3><br>
-										<h3><img style="border-radius:50%" src="images/vicepresidente.jpg" width="25%" height="25%"></h3>
-										<h2>Turbo</h2>
-										</center>
-									</section>
-								</div>
-							</div>
-							<div class="row">
-								<div class="6u 12u(mobile)">
-									<section>
-										<center>
-										<h3>Diretor Financeiro</h3><br>
-										<h3><img style="border-radius:50%" src="images/financeiro.jpg" width="25%" height="25%"></h3>
-										<h2>Fusão</h2>
-										</center>
-									</section>
-								</div>
-								<div class="6u 12u(mobile)">
-									<section>
-										<center>
-										<h3>Diretor de Marketing</h3><br>
-										<h3><img style="border-radius:50%" src="images/marketing.jpg" width="25%" height="25%"></h3>
-										<h2>Desmond</h2>
-										</center>
-									</section>
-								</div>
-							</div>
-							<div class="row">
-									<div class="6u 12u(mobile)">
+							<section id="features">
+								<header class="style1">
+									<h2>Diretoria</h2>
+									<p>Gestão Sucessão</p>
+								</header>
+								<div class="feature-list">
+									<div class="row">
+										<div class="6u 12u(mobile)">
 											<section>
 												<center>
-												<h3>Diretor de Projetos</h3><br>
-												<h3><img style="border-radius:50%" src="images/projetos.jpg" width="25%" height="25%"></h3>
-												<h2>Beto</h2>
+												<h3>Presidente</h3><br>
+												<h3><img style="border-radius:50%" src="images/presidente.jpg" width="25%" height="25%"></h3>
+												<h2>Borges</h2>
 												</center>
 											</section>
+										</div>
+										<div class="6u 12u(mobile)">
+											<section>
+												<center>
+												<h3>Vice Presidente</h3><br>
+												<h3><img style="border-radius:50%" src="images/vicepresidente.jpg" width="25%" height="25%"></h3>
+												<h2>Turbo</h2>
+												</center>
+											</section>
+										</div>
+									</div>
+									<div class="row">
+										<div class="6u 12u(mobile)">
+											<section>
+												<center>
+												<h3>Diretor Financeiro</h3><br>
+												<h3><img style="border-radius:50%" src="images/financeiro.jpg" width="25%" height="25%"></h3>
+												<h2>Fusão</h2>
+												</center>
+											</section>
+										</div>
+										<div class="6u 12u(mobile)">
+											<section>
+												<center>
+												<h3>Diretor de Marketing</h3><br>
+												<h3><img style="border-radius:50%" src="images/marketing.jpg" width="25%" height="25%"></h3>
+												<h2>Desmond</h2>
+												</center>
+											</section>
+										</div>
+									</div>
+									<div class="row">
+											<div class="6u 12u(mobile)">
+													<section>
+														<center>
+														<h3>Diretor de Projetos</h3><br>
+														<h3><img style="border-radius:50%" src="images/projetos.jpg" width="25%" height="25%"></h3>
+														<h2>Beto</h2>
+														</center>
+													</section>
+										</div>
+										<div class="6u 12u(mobile)">
+												<section>
+													<center>
+													<h3>Diretor de GP</h3><br>
+													<h3><img style="border-radius:50%" src="images/gp.jpg" width="25%" height="25%"></h3>
+													<h2>Máscara</h2>
+													</center>
+												</section>
+										</div>
+									</div>
 								</div>
-								<div class="6u 12u(mobile)">
-										<section>
-											<center>
-											<h3>Diretor de GP</h3><br>
-											<h3><img style="border-radius:50%" src="images/gp.jpg" width="25%" height="25%"></h3>
-											<h2>Máscara</h2>
-											</center>
-										</section>
-								</div>
-							</div>
-						</div>
-					</section>
+							</section>
+
 					</div>
 				</div>
 
@@ -158,7 +163,7 @@
 									<h3><a href="#">SEnC</a></h3>
 									<p>A SEnC - Semana da Engenharia de Computação - é realizada todo ano com o apoio de gestão dos membros da SAEComp, o evento busca introduzir palestras e cursos que envolvem a Engenharia de Computação.</p>
 									<ul class="actions">
-										<li><a href="#" class="button style1">Saiba Mais</a></li>
+										<li><a href="https://www.facebook.com/semanaengenhariacomputacao/" class="button style1">Saiba Mais</a></li>
 									</ul>
 								</section>
 							</div>
@@ -168,7 +173,7 @@
 									<h3><a href="#">Facebook</a></h3>
 									<p>A página da SAEComp no facebook disponibiliza notícias sobre o curso; além de eventos e projetos realizados pela Secretaria acadêmica e seus membros. Fique ligado sobre nossas atividades!</p>
 									<ul class="actions">
-										<li><a href="#" class="button style1">Saiba Mais</a></li>
+										<li><a href="https://www.facebook.com/saecomp/" class="button style1">Saiba Mais</a></li>
 									</ul>
 								</section>
 							</div>
@@ -178,7 +183,7 @@
 									<h3><a href="#">CAASO</a></h3>
 									<p>O Centro acadêmico Armando Salles de Oliveira representa todos os alunos do Campus da USP São Carlos e dá o apoio necessário para todas as Secretarias Acadêmicas.</p>
 									<ul class="actions">
-										<li><a href="#" class="button style1">Saiba Mais</a></li>
+										<li><a href="https://www.facebook.com/CAASO.USP/" class="button style1">Saiba Mais</a></li>
 									</ul>
 								</section>
 							</div>
