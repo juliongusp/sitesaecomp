@@ -198,8 +198,11 @@
 													<header>
 														<h2>ICMC - Instituto de Ciências Matemáticas e da Computação</h2>
 													</header>
-													<a href="http://www.icmc.usp.br/" class="image featured"><img src="images/eeschorizontal.png" alt="" /></a>
-													<p>Alguma descrição sobre interunidades</p>
+													<a href="http://www.icmc.usp.br/" class="image featured"><img src="images/icmchorizontal.png" alt="" /></a>
+													<p>O ICMC é um dos institutos que dão suporte a Engenharia de Computação.
+														Apesar de ser casa da alguns dos grandes carrascos da USP, esse instituto
+														é um dos que mais produzem pesquisas e surpreende na área da Computação.
+													</p>
 													<a href="http://www.icmc.usp.br/" class="button style1">Acesse</a>
 												</section>
 											</div>
@@ -208,8 +211,11 @@
 													<header>
 														<h2>EESC - Escola de Engenharia de São Carlos</h2>
 													</header>
-													<a href="http://www.eesc.usp.br" class="image featured"><img src="images/icmchorizontal.png" alt="" /></a>
-													<p>alguma descriç'ao sobre interunidades</p>
+													<a href="http://www.eesc.usp.br" class="image featured"><img src="images/eeschorizontal.png" alt="" /></a>
+													<p>A EESC é a pioneira da USP São Carlos, abriga a nossa área de Elétrica
+														e é o outro lado do nosso curso interunidades. Tradicional, carrega o peso e o nome de 
+														"sombra da Poli".
+													</p>
 													<a href="http://www.eesc.usp.br" class="button style1">Acesse</a>
 												</section>
 											</div>
